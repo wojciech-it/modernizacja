@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "wojciechit",
+    "name": "wojciech-it",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -26,7 +26,8 @@
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
-      }
+      },
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.4",
@@ -50,13 +51,13 @@
       "opacity": "99",
       "opacityOverlay": "80",
       "text": "Używamy plików Cookies. Aby zmienić ustawienia prywatności sprawdź ustawienia swojej przeglądarki.",
-      "textButton": "Zamknij ten komunikat"
+      "textButton": "Akceptuję"
     },
     "gdpr": {
-      "colorText": "#a7a7a7",
+      "colorText": "#0f7699",
       "colorLink": "#149dcc",
       "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+      "text": "Aby kontynuować, musisz zaakceptować regulamin oraz politykę prywatności."
     },
     "favicon": "@PROJECT_PATH@/assets/images/242e97da-4b55-490d-b29c-ecf024d3881d.jpeg",
     "imageResize": false,
